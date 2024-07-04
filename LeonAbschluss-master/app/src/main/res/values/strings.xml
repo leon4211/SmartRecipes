@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SmartRecipes</string>
+    <string name="takePictureMainText">Gerade Ideenlos oder einfach nur Neugierig? Hast du Lust, mit deinen Lebensmitteln neue Gerichte zu entdecken? Sende mir einfach ein Bild und den Rest übernehme ich!</string>
+    <string name="openCamera">Kamera App öffnen</string>
+    <string name="pictureSendInText">Passendes Bild mit erkennbaren Lebensmittel gefunden? Dann lass nun die Magie beginnen!</string>
+    <string name="createOverviewButton">Los geht\´s!</string>
+    <string name="OverviewText">Wähle nun mit der Tickbox welche erkannten Lebensmittel du verwenden möchtest, diese könnten z. B. Eier sein die kurz vor dem ablaufen sind.
+                                Ist dir deine Auswahl zu fad?
+                                Kein problem!
+                                wähle mit dem Auge welche Lebensmittel optional eingeblendet werden sollen!</string>
+    <string name="nextButton">Weiter</string>
+    <string name="recipeText">Hier ist eine Auswahl an Rezepten die zu deinen gewählten Lebensmittel passen. Klicke auf eines der Rezepte um die benötigten Lebensmittel sowie die dazugehörige Schritt - für Schrittanleitung einzusehen.</string>
+    <string name="neededIngredients">Benötigte Lebensmittel</string>
+    <string name="recipeName">Rezept</string>
+    <string name="tryAgainButton">Erneut versuchen</string>
+
+    <string name="dropDownMenuName">Datenschutz</string>
+    <string name="privacyPolicy">Datenschutzbestimmungen</string>
+    <string name="noRecipesFoundError">Leider konnten wir mit der Auswahl deiner Lebensmittel keine passenden Rezepte generieren. Passe bitte deine Auswahl an und versuche es erneut.</string>
+    <string name="unknownError">Ein unerwarteter Fehler ist aufgetreten - das sollte natürlich nicht geschehen. Wir arbeiten fortlaufend an unserer App um Fehler wie diese zu vermeiden. Wir bitten um Verständnis!</string>
+    <string name="noCameraAppInstalled">Wir haben festgestellt, dass auf deinem Gerät keine App installiert ist, um Bilder aufzunehmen oder noch keine Bilder geschossen wurden. Installiere eine passende App und versuche es anschließend erneut.</string>
+    <string name="serviceIsNotResponding">Leider ist bei der Verbindung zu ChatGPT ein Fehler aufgetreten. Überprüfe deine Internetverbindung oder Informiere dich über die aktuelle Auslastung der ChatGPT Server und versuche es erneut.</string>
+    <string name="noIngredientsFoundError">Leider konnten wir in deinem Bild keine Lebensmittel erkennen, aus denen Rezepte generiert werden können. Achte darauf, dass nur Lebensmittel verarbeitet werden und das die Lebensmittel im Bild gut erkennbar sind und versuche es erneut.</string>
+    <string name="networkError">Oh, es sieht so aus, als wäre da etwas schief gelaufen." Keine Internetverbindung</string>
+</resources>
